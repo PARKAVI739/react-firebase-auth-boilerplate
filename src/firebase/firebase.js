@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAHKQD6WYz_eb-rYm_EFlxo8ggOUDsX2dI",
-  authDomain: "my-first-firebase-projec-e93ee.firebaseapp.com",
-  projectId: "my-first-firebase-projec-e93ee",
-  storageBucket: "my-first-firebase-projec-e93ee.appspot.com",
-  messagingSenderId: "794295013271",
-  appId: "1:794295013271:web:ae7ff9e4ee8d61b9b87ed2",
-  measurementId: "G-JMPW7G0M4R"
+  apiKey: "enter key",
+  authDomain: "enter authdomain",
+  projectId: "enter ur credential",
+  storageBucket: "enter ur credential",
+  messagingSenderId: "enter ur credential",
+  appId: "enter ur credential",
+  measurementId: "enter ur credential"
   };
 
 const app = initializeApp(firebaseConfig);
